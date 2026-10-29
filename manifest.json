@@ -1,0 +1,402 @@
+{
+  "date": "2026-10-29",
+  "layout": "sampling/calculations/runners/tests",
+  "original_script_count": 31,
+  "file_count": 65,
+  "files": [
+    {
+      "path": "calculations/analyze_parton_realspace_n06.py",
+      "bytes": 8796,
+      "sha256": "1663f8ddf4f5578fca9be478e5fbbeec25d6df8113b0bae505be55714a11ca30",
+      "original_file": "analyze_parton_realspace_n06.py",
+      "original_sha256": "a9635bd2796dabc2802bdb1320d85fa82442801a6eb18aba41bfc2e9e4623f40"
+    },
+    {
+      "path": "calculations/analyze_projected_correlations.py",
+      "bytes": 16511,
+      "sha256": "21def7f16b7a9de0da12d8e50203925a82a8ba983af578eed72041770c240935",
+      "original_file": "analyze_projected_correlations.py",
+      "original_sha256": "02f1064ad1c32bb3b9bb92013288b599799cfb29deab684955f97546c1c83628"
+    },
+    {
+      "path": "calculations/analyze_projected_currents.py",
+      "bytes": 21430,
+      "sha256": "dc583840b91fa18dfb68a2f4eb5328cc0f0c6941ca62cdbedc5bcabae0b90cee",
+      "original_file": "analyze_projected_currents.py",
+      "original_sha256": "52497c2606789651bddac6e5d17c736ba479eddc3bb64d6d894fc82a59e14491"
+    },
+    {
+      "path": "calculations/analyze_projected_search.py",
+      "bytes": 9875,
+      "sha256": "f8b7e542ae13bec88f07c3edaf99fd157af9748b68caab7d446ccebfa4529e2b",
+      "original_file": "analyze_projected_search.py",
+      "original_sha256": "4a6bbe78e8bb18581ee47a9bfff2a11442615e514ee726ec90613d8bad7d1785"
+    },
+    {
+      "path": "calculations/jk_energy.py",
+      "bytes": 2057,
+      "sha256": "5bea34406fa01e4d52562671323fdfe8461cb360a6fd2ca92e384e543de00645"
+    },
+    {
+      "path": "calculations/projected_correlations.py",
+      "bytes": 5716,
+      "sha256": "0bed61925f4290c63768d924aae6224022c52e54c710e46567151f9665716993",
+      "original_file": "projected_correlations.py",
+      "original_sha256": "1583714430dd8b6b14c9bd0e37ef4f62505ad8acb9452b4273aa39590f67e080"
+    },
+    {
+      "path": "calculations/projected_currents.py",
+      "bytes": 5634,
+      "sha256": "a683e303fc363d983e0caaa1233767a1f31cfda8fc12cc55aef90ff16e6ee314",
+      "original_file": "projected_currents.py",
+      "original_sha256": "034a1bcef9d18addba3181338541f7d2f5489170f6926df1c11a088df9b5c61d"
+    },
+    {
+      "path": "calculations/projected_dimer_audit.py",
+      "bytes": 3871,
+      "sha256": "e4be2111aecfba9400a86c98597ddaaa7ceee34cd861c7c4b1261fb410036693",
+      "original_file": "projected_dimer_audit.py",
+      "original_sha256": "52a5acb8a630a50e452107af568a693852e6f08d7a45d7951dd50f631cdfa224"
+    },
+    {
+      "path": "calculations/projected_exact_correlations.py",
+      "bytes": 7985,
+      "sha256": "3c33c2e627a0f2c10c1f1ca4f5011e1c2cb9d09257ea8dee3542d363f7f02222",
+      "original_file": "projected_exact_correlations.py",
+      "original_sha256": "894fa5b983a6cfa2834cdbc0d9fc763a662ef6cc91e24a6fa8ee494fa5d500be"
+    },
+    {
+      "path": "calculations/projected_exact_currents.py",
+      "bytes": 6850,
+      "sha256": "2f6ff9608c86ce45f96483cb4a64c745a9c7af5e113cf6bfb7ab3cce12eefb4c",
+      "original_file": "projected_exact_currents.py",
+      "original_sha256": "bfecee19c91debbca0d300d43aab83ddd73c2a5045f4133d0c164c6723022793"
+    },
+    {
+      "path": "calculations/projected_pair_channels.py",
+      "bytes": 5760,
+      "sha256": "a92dbf5cb10d45894ba883aef1406c13df4651018679fdca64740fdcde9ceb51",
+      "original_file": "projected_pair_channels.py",
+      "original_sha256": "accf6a039fa3c1a5f2ec4564a031fb1bef899fa948142261656a28339febe198"
+    },
+    {
+      "path": "calculations/projected_parton_exact.py",
+      "bytes": 13124,
+      "sha256": "87968203d748c02b4db95dd05e1b86817f0fcffc2abb51d1d932b82016c6707d",
+      "original_file": "projected_parton_exact.py",
+      "original_sha256": "64e6faef7c028c344e816ae9bb11dd7fe326166e4bd0fe5bc2f6a455fc8eba0b"
+    },
+    {
+      "path": "calculations/projected_vmc_validation.py",
+      "bytes": 2317,
+      "sha256": "38330232f27b4b1e648035b37ddc8aafe6b0e9c9f5ce691ef9c6bd93228ea53c",
+      "original_file": "projected_vmc_validation.py",
+      "original_sha256": "7af58e3e44cc2a083da4949ab8f9ec9eef49a4431138fb3f1da884a20058392e"
+    },
+    {
+      "path": "calculations/vmc_statistics.py",
+      "bytes": 1497,
+      "sha256": "03bd05b471a6e1322823502f58bc45b2075f568484a506a2461f12a01ef66498"
+    },
+    {
+      "path": "calculations/workflows/optimize_vmc12.py",
+      "bytes": 5612,
+      "sha256": "767f4544a0d97618f4a3b0c4ea86b38d9aa5c1b5b000c1670a202c491dba868b",
+      "original_file": "optimize_vmc12.py",
+      "original_sha256": "f768c3e5df3504b13e078517701054fffbc35e6447e52717392da3b9fcc6828d"
+    },
+    {
+      "path": "calculations/workflows/run_projected_correlations.py",
+      "bytes": 5740,
+      "sha256": "a9864a99995aafa7af8f5221f8eee766a0b19d623c97ad4d0f6c80d81cd36b39",
+      "original_file": "run_projected_correlations.py",
+      "original_sha256": "7540f992cd2ec01e52e59b98cc30989c3d5c54a5165eabf5c42703b84d0472d5"
+    },
+    {
+      "path": "calculations/workflows/run_projected_currents.py",
+      "bytes": 2197,
+      "sha256": "e0a4af4249ecec12e13009d29cc0762a3624bb9828875a9c51118a4d5accf1f6",
+      "original_file": "run_projected_currents.py",
+      "original_sha256": "09ef984026b0f8a722877c0fc2d2e431eaa0c0c47c8110e00a5b228136eda766"
+    },
+    {
+      "path": "calculations/workflows/run_projected_currents_sizes.py",
+      "bytes": 1099,
+      "sha256": "b1ea9a95a0863e9234139bcf7747731a7b1d2f730f36786ba6839a0bee49494e",
+      "original_file": "run_projected_currents_sizes.py",
+      "original_sha256": "2f1435062902c7d82a6db2e0efa69194ea65fd88098799f6088ad379a0bbb04d"
+    },
+    {
+      "path": "calculations/workflows/run_projected_finalist.py",
+      "bytes": 4249,
+      "sha256": "c4e69839ecf8220d8e2c579fd719cf2f0ed325c6131a40280646f16159e3c463",
+      "original_file": "run_projected_finalist.py",
+      "original_sha256": "b0fb189d0a7174d1dddfccf5b525a700398e9c5e78f093ee0303d36d1a34cc80"
+    },
+    {
+      "path": "calculations/workflows/run_projected_jastrow_grid.py",
+      "bytes": 3738,
+      "sha256": "26882caba138292ffd74fd8ab5f56fb6f01815d6397a8c7442fee72459eb835e",
+      "original_file": "run_projected_jastrow_grid.py",
+      "original_sha256": "b21071a7adb4c63cacc7ba4081ebe4f797988d2ee219994a3cd2c437a9963db4"
+    },
+    {
+      "path": "calculations/workflows/run_projected_vmc_scan.py",
+      "bytes": 3567,
+      "sha256": "703c65c5a90d321ca70a0bb8f18e159a52fd291d9044f12967de74eead9538a1",
+      "original_file": "run_projected_vmc_scan.py",
+      "original_sha256": "31a4d4f5e7ad92e8ff9ef540efb1ce61db90ae0f3df3c3ecae88ea08b374bd36"
+    },
+    {
+      "path": "calculations/workflows/run_vmc12_channels.py",
+      "bytes": 14491,
+      "sha256": "8fda5595c83c78987c3101e447c56944cee42f0875c69cf8bd13114940069252",
+      "original_file": "run_vmc12_channels.py",
+      "original_sha256": "8b38607d2d4899d5ac1bf6219c52a2b02b0a54de86884be34e124e6cde4d30ec"
+    },
+    {
+      "path": "calculations/workflows/run_vmc12_dwave.py",
+      "bytes": 8777,
+      "sha256": "99eff2e4a9f1d35cc3fb4c9a818336f71c0bbec081dd51115d7ca14bd00c6619",
+      "original_file": "run_vmc12_dwave.py",
+      "original_sha256": "d7252be5ee74154a13d8a4dc480fd01cfe48f150315ed130116485265ba0cf07"
+    },
+    {
+      "path": "calculations/workflows/run_vmc12_n06.py",
+      "bytes": 21956,
+      "sha256": "b4f1d9e8908c2e627bfdbeb07b5d89c67e2de678ed42c855cbebabe6ee498575",
+      "original_file": "run_vmc12_n06.py",
+      "original_sha256": "c2aacf29cd451d2b02f5f244385b0ec069d1add82c28f5ea4a708f298d44d462"
+    },
+    {
+      "path": "manifest_original.json",
+      "bytes": 6686,
+      "sha256": "d2ab43ca513b30e79ad38f1f56cc1eda917b37154010ffb21ceb713f72238302"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7608,
+      "sha256": "fcb77f881dd474a15662edd7a80820005c32fe5dc3fe34fdee4e50297712e1c2"
+    },
+    {
+      "path": "reorganization_map.json",
+      "bytes": 2425,
+      "sha256": "86d5a2e42d8656699ec2c2770927862114d0500279cba460050fc350c1b76e64"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 19,
+      "sha256": "aab24fb841ad8ec6d6ee3877128033111aa65a2d4e5c1a088590c890d541c30b"
+    },
+    {
+      "path": "run.py",
+      "bytes": 1972,
+      "sha256": "128eb59ef3e99cbfa5f3c741ad86108e83bb4007c628bc94efb88217dfa43390"
+    },
+    {
+      "path": "runners/analyze_parton_realspace_n06.py",
+      "bytes": 294,
+      "sha256": "962ceeaa9ace8498c26b8c6f584730f9879b39f3aaeefff20e681f3d8e0b224b"
+    },
+    {
+      "path": "runners/analyze_projected_correlations.py",
+      "bytes": 298,
+      "sha256": "c8944c34f7a07feb3cced4717ee114874bb4d97fc3ec74f298f7fe9ae21b47bd"
+    },
+    {
+      "path": "runners/analyze_projected_currents.py",
+      "bytes": 290,
+      "sha256": "3c4fbacc0180581f6dff5a3eb5c830fccb2fc53f00aac45c4b9f68c897dc671a"
+    },
+    {
+      "path": "runners/analyze_projected_search.py",
+      "bytes": 286,
+      "sha256": "4d16ab673d68940ad94f6c4d2d7c90f9dfcbf38e07cb2723051c007285b51a49"
+    },
+    {
+      "path": "runners/optimize_vmc12.py",
+      "bytes": 266,
+      "sha256": "c7204ab0d78caff9b747c005b1ea615baebb5aab1437be542c2659266efba260"
+    },
+    {
+      "path": "runners/projected_dimer_audit.py",
+      "bytes": 280,
+      "sha256": "ea8b594d758e28ec66add331dd269003f7e7a318370a2b220eb8a017a270bb9d"
+    },
+    {
+      "path": "runners/projected_exact_correlations.py",
+      "bytes": 294,
+      "sha256": "774c0f37abea47657cbb6f431385a5b236d0889e5cccfba7af02ddb9dc72dd5e"
+    },
+    {
+      "path": "runners/projected_exact_currents.py",
+      "bytes": 286,
+      "sha256": "300bfaddcd15baf5e41fee0970e1572460e21e23def70eefc3138bd441d5cc58"
+    },
+    {
+      "path": "runners/projected_parton_exact.py",
+      "bytes": 282,
+      "sha256": "31e77d01676c8d9d74a70cf3c551473550842cdf2bd42bbb95b92248c6d6cb56"
+    },
+    {
+      "path": "runners/projected_vmc_validation.py",
+      "bytes": 286,
+      "sha256": "1228512925b17eb40c7ab7aafb50f8915203246cbcf74dd8b5a0ef94f786afd1"
+    },
+    {
+      "path": "runners/run_projected_correlations.py",
+      "bytes": 290,
+      "sha256": "704e82c888b60451a47cefe64a1399a4df6ef8f7c545fdfe3edb1b5df0c822c6"
+    },
+    {
+      "path": "runners/run_projected_currents.py",
+      "bytes": 282,
+      "sha256": "8bfe3637b4bcedc33ee151e43327f9216588a156e17a49b48a9f35710010b75c"
+    },
+    {
+      "path": "runners/run_projected_currents_sizes.py",
+      "bytes": 294,
+      "sha256": "6a2855c0093ca88fc4ff4e19133e931ed98292f8b1ff360eea1f4a1adfcc91d1"
+    },
+    {
+      "path": "runners/run_projected_finalist.py",
+      "bytes": 282,
+      "sha256": "3a9e8b95d87e05ad7ec907d0fad093971721f22eeda443e333c39664b32c9071"
+    },
+    {
+      "path": "runners/run_projected_jastrow_grid.py",
+      "bytes": 290,
+      "sha256": "32a21a50ef8a1c86106df33ac6213643508cc6b54abcd2afb2bf654e6aac5f54"
+    },
+    {
+      "path": "runners/run_projected_vmc_scan.py",
+      "bytes": 282,
+      "sha256": "7ef62ea5ac5725e64f472e5710b61c1d40080ed8f7e5366ba71bbf9a029b6aa8"
+    },
+    {
+      "path": "runners/run_vmc12_channels.py",
+      "bytes": 274,
+      "sha256": "4fb893da5f356c7d4521d254c733179eeeba0dc164a901f27d0519f3e040953f"
+    },
+    {
+      "path": "runners/run_vmc12_dwave.py",
+      "bytes": 268,
+      "sha256": "f67447e421c2f9b2fc6885f544a284297ade526a7edf83d42146219142712fe1"
+    },
+    {
+      "path": "runners/run_vmc12_n06.py",
+      "bytes": 264,
+      "sha256": "f9142f59156fbb92dcd2f8e05834298ed62520b6c38171f25837d6b4fcc52654"
+    },
+    {
+      "path": "runners/validate_projected_correlations.py",
+      "bytes": 300,
+      "sha256": "99b60d4955351b76c02b8976c9dd39b24958f2f000e03294b7f7c13572cf3eb0"
+    },
+    {
+      "path": "runners/validate_projected_currents.py",
+      "bytes": 292,
+      "sha256": "ada264af85b5951b1ba3bbbcdea974ddf970de475f77581a094c8d5e8f8aa0df"
+    },
+    {
+      "path": "sampling/correlation_sampler.py",
+      "bytes": 3308,
+      "sha256": "a2d35ec0a379fe03fa90653d098252e72220599c88f0e1e40a9f0d44ca9651ec"
+    },
+    {
+      "path": "sampling/current_sampler.py",
+      "bytes": 3141,
+      "sha256": "2788f33a2607607b129e2e30c64830b4f6d37480130acb6e1332215b4fa66664"
+    },
+    {
+      "path": "sampling/projected_parton_vmc.py",
+      "bytes": 10355,
+      "sha256": "a2fe88ab72a1e882b603055f8ecbce46c8e163da9ea0034ec01c43fc77cf32e6",
+      "original_file": "projected_parton_vmc.py",
+      "original_sha256": "0b587e4fa2e9647c60690a59cd4eecbafc64281ff5ae0e4141a80bad59af6e3c"
+    },
+    {
+      "path": "tasks.json",
+      "bytes": 1682,
+      "sha256": "e413a04f0911b401db49f2127b2000442ad13de53a9e083f4af42c9cb233c647"
+    },
+    {
+      "path": "tests/smoke_layout.py",
+      "bytes": 1200,
+      "sha256": "49299ef301ad52009b6695ec715be36df2bfb50a7b6e670db09a03e377673375"
+    },
+    {
+      "path": "tests/test_projected_correlations.py",
+      "bytes": 2580,
+      "sha256": "0349d39b0454985d6fa325edf6649ca57e66ffda537b52af908649ea60365563",
+      "original_file": "test_projected_correlations.py",
+      "original_sha256": "a57f9057528ac4dd04779f67f4e46d85ba346507a0bca47f59877aa2ed1aaa4d"
+    },
+    {
+      "path": "tests/test_projected_exact_currents.py",
+      "bytes": 2279,
+      "sha256": "5c8c2ba95837afe6853ef14d06c5f555f692b9b2c3a4d7ef48389b16f50bd05e",
+      "original_file": "test_projected_exact_currents.py",
+      "original_sha256": "2dc2ad1690b476c0cc8820c1137a459ef2ca8c667e41727fee04809c3b39aa74"
+    },
+    {
+      "path": "tests/test_projected_pair_channels.py",
+      "bytes": 4353,
+      "sha256": "dcdeda31b73fa27a8b0756f69009f7880d9bcaee563f949433ba7e181c49b0da",
+      "original_file": "test_projected_pair_channels.py",
+      "original_sha256": "2e3e1194a21032327377cd3912d0003259df59840ff56e814194a75100b0f6da"
+    },
+    {
+      "path": "tests/test_projected_parton_exact.py",
+      "bytes": 2997,
+      "sha256": "a05f2cb035a20c2a4c206e986ac07e74027718be5a048fcb7f95cfce34b6f4f1",
+      "original_file": "test_projected_parton_exact.py",
+      "original_sha256": "b2283d599696c8a18383da60950c723c74b90a21708e854ef01e02f088c0da11"
+    },
+    {
+      "path": "tests/test_projected_parton_vmc.py",
+      "bytes": 3680,
+      "sha256": "fd3140bb64a2fa99b70ed8b6d075d1fde4689895a1b4f806f9101dc51238e799",
+      "original_file": "test_projected_parton_vmc.py",
+      "original_sha256": "585a628f907110bb090cd9969f04d8aaa855399d457157bcef5690c178fd7f60"
+    },
+    {
+      "path": "tests/test_vmc_filling.py",
+      "bytes": 2686,
+      "sha256": "1f71e79823eb273c6fe6d17a3410c33b8ee3666e6df2c5729743494d4b5ef41a",
+      "original_file": "test_vmc_filling.py",
+      "original_sha256": "cee95f5754e5bdcdeea577d8dcedbce27cd04a1158f524ad7c0c54a7cfced11d"
+    },
+    {
+      "path": "tests/validate_projected_correlations.py",
+      "bytes": 1744,
+      "sha256": "f933304a442468918bf56d6041b47d4b4d50d803cd49415a77e2d9cfb6185f8c",
+      "original_file": "validate_projected_correlations.py",
+      "original_sha256": "ef1d733803fb44ead53f9c70b9ae521b20617e0495142d5a9d11b61339dae5e2"
+    },
+    {
+      "path": "tests/validate_projected_currents.py",
+      "bytes": 5973,
+      "sha256": "f6570ae8eabe39eac60245938062057544c4ea2b7ff13e566e1251513436d72f",
+      "original_file": "validate_projected_currents.py",
+      "original_sha256": "82a84755350e8970032583c6a930a5c26fa7de08636ea99e32bf72bcfae4a10f"
+    },
+    {
+      "path": "validation_results.json",
+      "bytes": 287,
+      "sha256": "c89c9df8e7189d361e62031c6e8845e0f2aaeb2ba954329b8edf271a8cc2330a"
+    },
+    {
+      "path": "vmc_paths.py",
+      "bytes": 121,
+      "sha256": "6d8be7aea7c5506ac74c9e54785b932864c8424e0bc3191081acfa6321efd304"
+    }
+  ],
+  "validation": {
+    "unit_tests_passed": 21,
+    "all_module_imports": "passed",
+    "windows_spawn_sampling": "passed: two workers, energy/correlation/current sampling, L4, 40 measurements",
+    "runner_from_other_directory": "passed: projected_parton_exact --help",
+    "production_scans_rerun": false
+  }
+}

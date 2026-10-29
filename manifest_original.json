@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-29",
+  "source": "C:\\Users\\Lenovo\\Documents\\ChatGPT\\Bose Metal-research",
+  "scripts": [
+    {
+      "file": "analyze_parton_realspace_n06.py",
+      "category": "分析与绘图",
+      "bytes": 8685,
+      "sha256": "a9635bd2796dabc2802bdb1320d85fa82442801a6eb18aba41bfc2e9e4623f40"
+    },
+    {
+      "file": "analyze_projected_correlations.py",
+      "category": "分析与绘图",
+      "bytes": 16306,
+      "sha256": "02f1064ad1c32bb3b9bb92013288b599799cfb29deab684955f97546c1c83628"
+    },
+    {
+      "file": "analyze_projected_currents.py",
+      "category": "分析与绘图",
+      "bytes": 21169,
+      "sha256": "52497c2606789651bddac6e5d17c736ba479eddc3bb64d6d894fc82a59e14491"
+    },
+    {
+      "file": "analyze_projected_search.py",
+      "category": "分析与绘图",
+      "bytes": 9763,
+      "sha256": "4a6bbe78e8bb18581ee47a9bfff2a11442615e514ee726ec90613d8bad7d1785"
+    },
+    {
+      "file": "optimize_vmc12.py",
+      "category": "计算入口",
+      "bytes": 5501,
+      "sha256": "f768c3e5df3504b13e078517701054fffbc35e6447e52717392da3b9fcc6828d"
+    },
+    {
+      "file": "projected_correlations.py",
+      "category": "采样、算符及精确小簇依赖",
+      "bytes": 8451,
+      "sha256": "1583714430dd8b6b14c9bd0e37ef4f62505ad8acb9452b4273aa39590f67e080"
+    },
+    {
+      "file": "projected_currents.py",
+      "category": "采样、算符及精确小簇依赖",
+      "bytes": 8168,
+      "sha256": "034a1bcef9d18addba3181338541f7d2f5489170f6926df1c11a088df9b5c61d"
+    },
+    {
+      "file": "projected_dimer_audit.py",
+      "category": "采样、算符及精确小簇依赖",
+      "bytes": 3755,
+      "sha256": "52a5acb8a630a50e452107af568a693852e6f08d7a45d7951dd50f631cdfa224"
+    },
+    {
+      "file": "projected_exact_correlations.py",
+      "category": "采样、算符及精确小簇依赖",
+      "bytes": 7812,
+      "sha256": "894fa5b983a6cfa2834cdbc0d9fc763a662ef6cc91e24a6fa8ee494fa5d500be"
+    },
+    {
+      "file": "projected_exact_currents.py",
+      "category": "采样、算符及精确小簇依赖",
+      "bytes": 6690,
+      "sha256": "bfecee19c91debbca0d300d43aab83ddd73c2a5045f4133d0c164c6723022793"
+    },
+    {
+      "file": "projected_pair_channels.py",
+      "category": "采样、算符及精确小簇依赖",
+      "bytes": 5638,
+      "sha256": "accf6a039fa3c1a5f2ec4564a031fb1bef899fa948142261656a28339febe198"
+    },
+    {
+      "file": "projected_parton_exact.py",
+      "category": "采样、算符及精确小簇依赖",
+      "bytes": 12857,
+      "sha256": "64e6faef7c028c344e816ae9bb11dd7fe326166e4bd0fe5bc2f6a455fc8eba0b"
+    },
+    {
+      "file": "projected_parton_vmc.py",
+      "category": "采样、算符及精确小簇依赖",
+      "bytes": 13091,
+      "sha256": "0b587e4fa2e9647c60690a59cd4eecbafc64281ff5ae0e4141a80bad59af6e3c"
+    },
+    {
+      "file": "projected_vmc_validation.py",
+      "category": "验证与测试",
+      "bytes": 2268,
+      "sha256": "7af58e3e44cc2a083da4949ab8f9ec9eef49a4431138fb3f1da884a20058392e"
+    },
+    {
+      "file": "run_projected_correlations.py",
+      "category": "计算入口",
+      "bytes": 5649,
+      "sha256": "7540f992cd2ec01e52e59b98cc30989c3d5c54a5165eabf5c42703b84d0472d5"
+    },
+    {
+      "file": "run_projected_currents.py",
+      "category": "计算入口",
+      "bytes": 2158,
+      "sha256": "09ef984026b0f8a722877c0fc2d2e431eaa0c0c47c8110e00a5b228136eda766"
+    },
+    {
+      "file": "run_projected_currents_sizes.py",
+      "category": "计算入口",
+      "bytes": 1057,
+      "sha256": "2f1435062902c7d82a6db2e0efa69194ea65fd88098799f6088ad379a0bbb04d"
+    },
+    {
+      "file": "run_projected_finalist.py",
+      "category": "计算入口",
+      "bytes": 4175,
+      "sha256": "b0fb189d0a7174d1dddfccf5b525a700398e9c5e78f093ee0303d36d1a34cc80"
+    },
+    {
+      "file": "run_projected_jastrow_grid.py",
+      "category": "计算入口",
+      "bytes": 3638,
+      "sha256": "b21071a7adb4c63cacc7ba4081ebe4f797988d2ee219994a3cd2c437a9963db4"
+    },
+    {
+      "file": "run_projected_vmc_scan.py",
+      "category": "计算入口",
+      "bytes": 3478,
+      "sha256": "31a4d4f5e7ad92e8ff9ef540efb1ce61db90ae0f3df3c3ecae88ea08b374bd36"
+    },
+    {
+      "file": "run_vmc12_channels.py",
+      "category": "计算入口",
+      "bytes": 14337,
+      "sha256": "8b38607d2d4899d5ac1bf6219c52a2b02b0a54de86884be34e124e6cde4d30ec"
+    },
+    {
+      "file": "run_vmc12_dwave.py",
+      "category": "计算入口",
+      "bytes": 8657,
+      "sha256": "d7252be5ee74154a13d8a4dc480fd01cfe48f150315ed130116485265ba0cf07"
+    },
+    {
+      "file": "run_vmc12_n06.py",
+      "category": "计算入口",
+      "bytes": 21864,
+      "sha256": "c2aacf29cd451d2b02f5f244385b0ec069d1add82c28f5ea4a708f298d44d462"
+    },
+    {
+      "file": "test_projected_correlations.py",
+      "category": "验证与测试",
+      "bytes": 2525,
+      "sha256": "a57f9057528ac4dd04779f67f4e46d85ba346507a0bca47f59877aa2ed1aaa4d"
+    },
+    {
+      "file": "test_projected_exact_currents.py",
+      "category": "验证与测试",
+      "bytes": 2233,
+      "sha256": "2dc2ad1690b476c0cc8820c1137a459ef2ca8c667e41727fee04809c3b39aa74"
+    },
+    {
+      "file": "test_projected_pair_channels.py",
+      "category": "验证与测试",
+      "bytes": 4267,
+      "sha256": "2e3e1194a21032327377cd3912d0003259df59840ff56e814194a75100b0f6da"
+    },
+    {
+      "file": "test_projected_parton_exact.py",
+      "category": "验证与测试",
+      "bytes": 2931,
+      "sha256": "b2283d599696c8a18383da60950c723c74b90a21708e854ef01e02f088c0da11"
+    },
+    {
+      "file": "test_projected_parton_vmc.py",
+      "category": "验证与测试",
+      "bytes": 3606,
+      "sha256": "585a628f907110bb090cd9969f04d8aaa855399d457157bcef5690c178fd7f60"
+    },
+    {
+      "file": "test_vmc_filling.py",
+      "category": "验证与测试",
+      "bytes": 2635,
+      "sha256": "cee95f5754e5bdcdeea577d8dcedbce27cd04a1158f524ad7c0c54a7cfced11d"
+    },
+    {
+      "file": "validate_projected_correlations.py",
+      "category": "验证与测试",
+      "bytes": 1710,
+      "sha256": "ef1d733803fb44ead53f9c70b9ae521b20617e0495142d5a9d11b61339dae5e2"
+    },
+    {
+      "file": "validate_projected_currents.py",
+      "category": "验证与测试",
+      "bytes": 5860,
+      "sha256": "82a84755350e8970032583c6a930a5c26fa7de08636ea99e32bf72bcfae4a10f"
+    }
+  ],
+  "notes": "Original files retained; SHA256 verified copies; outputs excluded"
+}

@@ -1,0 +1,7 @@
+{
+  "unit_tests_passed": 21,
+  "all_module_imports": "passed",
+  "windows_spawn_sampling": "passed: two workers, energy/correlation/current sampling, L4, 40 measurements",
+  "runner_from_other_directory": "passed: projected_parton_exact --help",
+  "production_scans_rerun": false
+}
